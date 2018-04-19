@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>tübus-karte.de</title>
+
+    <link rel="icon" href="favicon.png" type="image/png">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <script src="lib/jquery/jquery-3.3.1.min.js"></script>
+    <link href="lib/leaflet/leaflet.css" rel="stylesheet" />
+    <link href="lib/leaflet/plugins/awesome-markers/leaflet.awesome-markers.css" rel="stylesheet" />
+    <script src="lib/leaflet/leaflet.js"></script>
+    <script src="lib/leaflet/plugins/awesome-markers/leaflet.awesome-markers.min.js"></script>
+    <link href="lib/font-awesome-4.2.0/css/font-awesome.min.css" rel="stylesheet" />
+    <script src="lib/jquery/plugins/sparkline/jquery.sparkline.min.js"></script>
+
+
+    <link rel="stylesheet" href="app.css" type="text/css" />
+    <script src="app.js"></script>
+    <script src="BusStopProvider.js"></script>
+    <script src="OSM.js"></script>
+
+    <link href="https://fonts.googleapis.com/css?family=Fira+Sans:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+</head>
+<body id="content">
+    <div id="map"></div>
+    <div id="filter">
+        <table>
+            <thead>
+                <tr><th></th><th>ja</th><th>nein</th><th>unklar</th><th class="chart">Verteilung</th><th class="show-distribution-on-map">Färbung</th></tr>
+            </thead>
+            <tbody></tbody>
+            <tfoot>
+                <tr><td></td><td class="quick-checkers" colspan="3">
+                    <a href="#" id="uncheck-all" class="quick-check">alle aus</a>
+                    <a href="#" id="check-all" class="quick-check">alle an</a>
+                </td><td colspan="2"></td></tr>
+            </tfoot>
+        </table>
+    </div>
+</body>
+</html>

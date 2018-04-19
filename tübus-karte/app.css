@@ -1,0 +1,154 @@
+﻿* {
+    box-sizing: border-box;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: "Fira Sans"
+}
+
+#content {
+    display: flex;
+}
+
+#map {
+    height: 100%;
+    flex-grow: 1;
+    border-right: 2px solid #aaa;
+}
+
+#filter {
+    padding: 20px;
+}
+
+.filter-option {
+    width: 40px;
+    text-align: center;
+}
+
+.filter-caption {
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.chart {
+    text-align: center;
+    padding-left: 8px;
+}
+
+.show-distribution-on-map {
+    text-align: center;
+    padding-left: 8px;
+}
+
+tbody tr:nth-child(2n+1) {
+    background: #eee;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td, th {
+    padding: 4px;
+}
+
+th {
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.quick-check {
+    font-size: 12px;
+    color: #888;
+    margin: 0 0px;
+}
+
+.quick-checkers {
+    text-align: center;
+}
+
+#map, #filter {
+    display: inline-block;
+}
+
+.jqstooltip {
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+.jqstooltip {
+    width: auto !important;
+    height: auto !important;
+}
+
+@media (max-width: 900px) {
+    #content {
+        flex-direction: column;
+    }
+
+    #map {
+        border-right: none;
+        border-bottom: 2px solid #aaa;
+    }
+
+    #filter {
+        padding: 10px;
+    }
+}
+
+.leaflet-popup-content-wrapper {
+    border-radius: 0;
+    padding: 0;
+}
+
+.leaflet-popup-content {
+    margin: 0;
+    width: 500px;
+    font-family: "Fira Sans"
+}
+
+.bus-stop-popup h1 {
+    background: #436877;
+    margin: 0;
+    color: white;
+    padding: 6px 12px;
+    font-weight: 300;
+}
+
+.bus-stop-popup table {
+    width: 100%;
+}
+
+.bus-stop-popup table tr td:nth-child(1) {
+    font-weight: bold;
+}
+
+.indicator {
+    width: 6px;
+    height: 6px;
+    border-radius: 3px;
+    display: inline-block;
+    margin-right: 4px;
+    margin-bottom: 1px;
+}
+
+.indicator.yes {
+    background: #71ae26;
+}
+
+.indicator.no {
+    background: #d13d29;
+}
+
+.indicator.unknown {
+    background: #ccc;
+}
+
+iframe {
+    border: none;
+    height: 300px;
+}

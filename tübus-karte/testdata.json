@@ -1,0 +1,6238 @@
+﻿{
+    "version": 0.6,
+        "generator": "Overpass API 0.7.54.13 ff15392f",
+            "osm3s": {
+        "timestamp_osm_base": "2018-04-10T15:44:01Z",
+            "timestamp_areas_base": "2018-04-10T14:03:02Z",
+                "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+
+        {
+            "type": "node",
+            "id": 30910719,
+            "lat": 48.4810091,
+            "lon": 9.0580500,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Kleeacker",
+                "operator": "TüBus",
+                "source": "survey",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 87137320,
+            "lat": 48.4968944,
+            "lon": 9.0634754,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Derendingen Nelkenweg",
+                "operator": "TüBus",
+                "ref": "72304",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 100295782,
+            "lat": 48.5067359,
+            "lon": 9.0740672,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Wennfelder Garten",
+                "operator": "TüBus",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 196360737,
+            "lat": 48.5435933,
+            "lon": 9.0102312,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Hagelloch Dornäckerweg",
+                "operator": "TüBus",
+                "ref": "10804",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 242154426,
+            "lat": 48.5131631,
+            "lon": 9.0328867,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Bismarckturm",
+                "network": "naldo",
+                "operator": "TüBus",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 262395630,
+            "lat": 48.4920134,
+            "lon": 9.0169854,
+            "tags": {
+                "highway": "bus_stop",
+                "operator": "TüBus"
+            }
+        },
+        {
+            "type": "node",
+            "id": 267178657,
+            "lat": 48.5041885,
+            "lon": 9.0699692,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Bergfriedhof Süd",
+                "operator": "TüBus",
+                "ref": "82204",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 275390646,
+            "lat": 48.5051398,
+            "lon": 9.0725297,
+            "tags": {
+                "bench": "yes",
+                "highway": "bus_stop",
+                "name": "Bergfriedhof Ost",
+                "operator": "TüBus",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 292737040,
+            "lat": 48.5118581,
+            "lon": 9.0563523,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Moltkestraße",
+                "operator": "TüBus",
+                "ref": "70201",
+                "shelter": "yes",
+                "tactile_paving": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 293351766,
+            "lat": 48.5114941,
+            "lon": 9.0599211,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Loretto",
+                "operator": "TüBus",
+                "ref": "92001",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 293351768,
+            "lat": 48.5113310,
+            "lon": 9.0600139,
+            "tags": {
+                "bin": "yes",
+                "highway": "bus_stop",
+                "name": "Loretto",
+                "operator": "TüBus",
+                "ref": "92004",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 293954506,
+            "lat": 48.5153933,
+            "lon": 9.0640854,
+            "tags": {
+                "bench": "yes",
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Landestheater",
+                "network": "naldo",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "80001",
+                "route_ref": "10,7611,N81",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 293954507,
+            "lat": 48.5143928,
+            "lon": 9.0679000,
+            "tags": {
+                "bench": "no",
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Hügelschule",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "82601",
+                "route_ref": "10,7611,N81",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 293954509,
+            "lat": 48.5128812,
+            "lon": 9.0745055,
+            "tags": {
+                "bench": "yes",
+                "bus": "yes",
+                "highway": "bus_stop",
+                "lines": "10;7611;N81",
+                "name": "Reutlinger Straße",
+                "operator": "TüBus",
+                "passenger_information_display": "no",
+                "public_transport": "platform",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "timetable": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 295899960,
+            "lat": 48.5124775,
+            "lon": 9.0568861,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Moltkestraße",
+                "operator": "TüBus",
+                "ref": "70204",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 295902016,
+            "lat": 48.5063982,
+            "lon": 9.0511525,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Derendingen Neuffenstraße",
+                "operator": "TüBus",
+                "ref": "71601",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 295902018,
+            "lat": 48.5065338,
+            "lon": 9.0512638,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Derendingen Neuffenstraße",
+                "operator": "TüBus",
+                "ref": "71604",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 295904583,
+            "lat": 48.5035004,
+            "lon": 9.0494364,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Derendingen Bahnhof",
+                "operator": "TüBus",
+                "ref": "210101",
+                "shelter": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 295904586,
+            "lat": 48.5035843,
+            "lon": 9.0498982,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Derendingen Bahnhof",
+                "operator": "TüBus",
+                "ref": "210104",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 295904587,
+            "lat": 48.5006038,
+            "lon": 9.0483392,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Derendingen Käppele",
+                "operator": "TüBus",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 295904591,
+            "lat": 48.5001357,
+            "lon": 9.0481092,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Derendingen Käppele",
+                "operator": "TüBus",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 296540746,
+            "lat": 48.5175560,
+            "lon": 9.0412637,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Lichtenberger Weg",
+                "operator": "TüBus",
+                "ref": "4901",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 296540750,
+            "lat": 48.5175365,
+            "lon": 9.0415266,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Lichtenberger Weg",
+                "network": "naldo",
+                "operator": "TüBus",
+                "ref": "4904",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 296540777,
+            "lat": 48.5178299,
+            "lon": 9.0479103,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Neckarhalde",
+                "network": "naldo",
+                "operator": "TüBus",
+                "ref": "510301",
+                "shelter": "no",
+                "source": "survey",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 297178479,
+            "lat": 48.5210051,
+            "lon": 9.0629082,
+            "tags": {
+                "bench": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "lines": "10",
+                "name": "Wielandshöhe",
+                "operator": "TüBus",
+                "ref": "60101",
+                "shelter": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 297178488,
+            "lat": 48.5194905,
+            "lon": 9.0584680,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Mühlstraße",
+                "network": "naldo",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "49904",
+                "route_ref": "22",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 297190665,
+            "lat": 48.5169192,
+            "lon": 9.0616461,
+            "tags": {
+                "bench": "no",
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Blaue Brücke",
+                "network": "naldo",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "51704",
+                "route_ref": "7, 10, 7611, N81",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 297190877,
+            "lat": 48.5137777,
+            "lon": 9.0655712,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Sternplatz",
+                "operator": "TüBus",
+                "ref": "81004",
+                "shelter": "yes",
+                "source": "knowledge",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 297190878,
+            "lat": 48.5136974,
+            "lon": 9.0653986,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Sternplatz",
+                "operator": "TüBus",
+                "ref": "81001",
+                "shelter": "yes",
+                "source": "knowledge",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 297912128,
+            "lat": 48.5207288,
+            "lon": 9.0498277,
+            "tags": {
+                "bin": "yes",
+                "highway": "bus_stop",
+                "name": "Haagtor",
+                "operator": "TüBus",
+                "ref": "1401",
+                "shelter": "no",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 297912129,
+            "lat": 48.5206921,
+            "lon": 9.0488228,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Haagtor",
+                "operator": "TüBus",
+                "ref": "1404",
+                "shelter": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 297912130,
+            "lat": 48.5213249,
+            "lon": 9.0514232,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Krumme Brücke",
+                "operator": "TüBus",
+                "ref": "1501",
+                "shelter": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 299853627,
+            "lat": 48.5382668,
+            "lon": 9.0613991,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Winkelwiese",
+                "operator": "TüBus",
+                "ref": "24204",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 300021606,
+            "lat": 48.5321516,
+            "lon": 9.0379206,
+            "tags": {
+                "bench": "yes",
+                "highway": "bus_stop",
+                "name": "Uni-Kliniken Berg",
+                "network": "naldo",
+                "operator": "TüBus",
+                "passenger_information_display": "yes",
+                "ref": "20304",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 300021624,
+            "lat": 48.5323732,
+            "lon": 9.0385657,
+            "tags": {
+                "bench": "yes",
+                "highway": "bus_stop",
+                "name": "Uni-Kliniken Berg",
+                "network": "naldo",
+                "operator": "TüBus",
+                "passenger_information_display": "yes",
+                "ref": "20301",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 300021636,
+            "lat": 48.5291939,
+            "lon": 9.0460530,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Frondsbergstraße",
+                "operator": "TüBus",
+                "ref": "20204",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 300021664,
+            "lat": 48.5286987,
+            "lon": 9.0460692,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Breiter Weg",
+                "operator": "TüBus",
+                "ref": "19004",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 300023049,
+            "lat": 48.5237885,
+            "lon": 9.0513931,
+            "tags": {
+                "bench": "yes",
+                "highway": "bus_stop",
+                "name": "Parkhaus König",
+                "operator": "TüBus",
+                "passenger_information_display": "yes",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 300023052,
+            "lat": 48.5236734,
+            "lon": 9.0510692,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Parkhaus König",
+                "operator": "TüBus",
+                "ref": "19204",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 300023063,
+            "lat": 48.5218131,
+            "lon": 9.0520740,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Bürgeramt",
+                "operator": "TüBus",
+                "ref": "1101",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 300228752,
+            "lat": 48.5421842,
+            "lon": 9.0615343,
+            "tags": {
+                "bench": "yes",
+                "covered": "yes",
+                "highway": "bus_stop",
+                "name": "Ahornweg",
+                "note": "Linien 2,",
+                "operator": "TüBus",
+                "ref": "21304",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 300228782,
+            "lat": 48.5417544,
+            "lon": 9.0545509,
+            "tags": {
+                "bench": "no",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Waldhäuser Straße",
+                "operator": "TüBus",
+                "ref": "23404",
+                "shelter": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 300229352,
+            "lat": 48.5298195,
+            "lon": 9.0543425,
+            "tags": {
+                "bench": "yes",
+                "covered": "yes",
+                "highway": "bus_stop",
+                "name": "Im Rotbad",
+                "operator": "TüBus",
+                "ref": "22104",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 300458527,
+            "lat": 48.5450303,
+            "lon": 9.0973676,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Zollernstraße",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "33304",
+                "route_ref": "1, 7, 23, 7601, E, N91"
+            }
+        },
+        {
+            "type": "node",
+            "id": 300458528,
+            "lat": 48.5448808,
+            "lon": 9.0984796,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Zollernstraße",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "33301",
+                "route_ref": "1, 7, 23, 7601, E, N91"
+            }
+        },
+        {
+            "type": "node",
+            "id": 300458529,
+            "lat": 48.5465371,
+            "lon": 9.1052721,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Steinbruchstraße",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "33701",
+                "route_ref": "1, 7, 23, E, N91"
+            }
+        },
+        {
+            "type": "node",
+            "id": 300859916,
+            "lat": 48.5145263,
+            "lon": 9.0603893,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Hechinger Straße",
+                "operator": "TüBus",
+                "ref": "90101",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 300860022,
+            "lat": 48.5140677,
+            "lon": 9.0604785,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Hechinger Straße",
+                "operator": "TüBus",
+                "ref": "90104",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 300863074,
+            "lat": 48.5099162,
+            "lon": 9.0492043,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Landespolizeidirektion",
+                "operator": "TüBus",
+                "ref": "91401",
+                "route_ref": "2",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 300863943,
+            "lat": 48.5012618,
+            "lon": 9.0561012,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Derendingen Paul-Diez-Straße",
+                "operator": "TüBus",
+                "ref": "70604",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 300863998,
+            "lat": 48.5013187,
+            "lon": 9.0559123,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Derendingen Paul-Diez-Straße",
+                "operator": "TüBus",
+                "ref": "70601",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 300864865,
+            "lat": 48.5153892,
+            "lon": 9.0683800,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Hügelstraße",
+                "network": "naldo",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "route_ref": "7",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 301341674,
+            "lat": 48.5264414,
+            "lon": 9.0532324,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Uni-Kliniken Tal",
+                "operator": "TüBus",
+                "ref": "20004",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 301341677,
+            "lat": 48.5269175,
+            "lon": 9.0518405,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Uni-Kliniken Tal",
+                "operator": "TüBus",
+                "ref": "20001",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 301954036,
+            "lat": 48.5191823,
+            "lon": 9.0580852,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "layer": "1",
+                "name": "Neckarbrücke",
+                "network": "naldo",
+                "note": "Linien 1,2,21,22",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "route_ref": "1, 2, 7, 21, 22",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 301954039,
+            "lat": 48.5187682,
+            "lon": 9.0580236,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "layer": "1",
+                "name": "Neckarbrücke",
+                "network": "naldo",
+                "note": "Linien 1,5",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "50104",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 301954041,
+            "lat": 48.5244329,
+            "lon": 9.0601842,
+            "tags": {
+                "bench": "yes",
+                "covered": "yes",
+                "highway": "bus_stop",
+                "lines": "1;2;3;4;6;7",
+                "name": "Uni / Neue Aula",
+                "operator": "TüBus",
+                "passenger_information_display": "yes",
+                "shelter": "yes",
+                "shelter_type": "public_transport",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 301954042,
+            "lat": 48.5279051,
+            "lon": 9.0633316,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Lothar-Meyer-Bau",
+                "note": "Linien 1,2,",
+                "operator": "TüBus",
+                "ref": "50401",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 301954043,
+            "lat": 48.5303496,
+            "lon": 9.0671754,
+            "tags": {
+                "bench": "yes",
+                "covered": "yes",
+                "highway": "bus_stop",
+                "lines": "1",
+                "name": "Pauline-Krone-Heim",
+                "operator": "TüBus",
+                "passenger_information_display": "yes",
+                "ref": "50501",
+                "shelter": "yes",
+                "shelter_type": "public_transport",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 301957107,
+            "lat": 48.5299824,
+            "lon": 9.0713025,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Landhausstraße",
+                "note": "Linien 1,",
+                "operator": "TüBus",
+                "ref": "30001",
+                "source": "survey",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 301957110,
+            "lat": 48.5302045,
+            "lon": 9.0711821,
+            "tags": {
+                "bench": "yes",
+                "highway": "bus_stop",
+                "lines": "1;7;21;23;N91",
+                "name": "Landhausstraße",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "30004",
+                "shelter": "yes",
+                "shelter_type": "public_transport",
+                "source": "survey",
+                "timetable": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 301957117,
+            "lat": 48.5288622,
+            "lon": 9.0762747,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Benzstraße",
+                "note": "Linien 1, 21",
+                "operator": "TüBus",
+                "source": "extrapolation",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 301957121,
+            "lat": 48.5280328,
+            "lon": 9.0799183,
+            "tags": {
+                "highway": "bus_stop",
+                "lines": "1;22",
+                "name": "Lustnau Dorfstraße",
+                "note": "Linien 1,22",
+                "operator": "TüBus",
+                "source": "extrapolation",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 301957123,
+            "lat": 48.5294472,
+            "lon": 9.0790996,
+            "tags": {
+                "highway": "bus_stop",
+                "lines": "1;22",
+                "name": "Dieselstraße",
+                "operator": "TüBus",
+                "source": "http://www.svtue.de/liniennetz/linienverzeichnis-tag.html",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 301960692,
+            "lat": 48.5311407,
+            "lon": 9.0680816,
+            "tags": {
+                "bench": "yes",
+                "covered": "yes",
+                "highway": "bus_stop",
+                "name": "Linsenbergstraße",
+                "note": "Linien 2,",
+                "operator": "TüBus",
+                "ref": "25001",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 301960693,
+            "lat": 48.5389500,
+            "lon": 9.0673347,
+            "tags": {
+                "bench": "yes",
+                "covered": "yes",
+                "highway": "bus_stop",
+                "name": "Sand Nordring",
+                "note": "Linien 2,",
+                "operator": "TüBus",
+                "ref": "25101",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 301960694,
+            "lat": 48.5377729,
+            "lon": 9.0671855,
+            "tags": {
+                "bench": "yes",
+                "highway": "bus_stop",
+                "name": "Sand Nordring",
+                "note": "Linien 2,",
+                "operator": "TüBus",
+                "ref": "25104",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 301960695,
+            "lat": 48.5366346,
+            "lon": 9.0688115,
+            "tags": {
+                "bench": "yes",
+                "covered": "yes",
+                "highway": "bus_stop",
+                "name": "Sand Drosselweg",
+                "note": "Linien 2,",
+                "operator": "TüBus",
+                "ref": "25207",
+                "shelter": "yes",
+                "tactile_paving": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 301960696,
+            "lat": 48.5399328,
+            "lon": 9.0638212,
+            "tags": {
+                "bench": "yes",
+                "covered": "yes",
+                "highway": "bus_stop",
+                "name": "Falkenweg",
+                "note": "Linien 2",
+                "operator": "TüBus",
+                "ref": "25304",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 301960697,
+            "lat": 48.5422040,
+            "lon": 9.0621120,
+            "tags": {
+                "bench": "yes",
+                "covered": "yes",
+                "highway": "bus_stop",
+                "name": "Ahornweg",
+                "note": "Linien 2,",
+                "operator": "TüBus",
+                "ref": "21301",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 301960698,
+            "lat": 48.5446128,
+            "lon": 9.0644073,
+            "tags": {
+                "bench": "yes",
+                "covered": "yes",
+                "highway": "bus_stop",
+                "name": "Erlenweg",
+                "note": "Linien 2,",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "21201",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 301960700,
+            "lat": 48.5445618,
+            "lon": 9.0641792,
+            "tags": {
+                "bench": "yes",
+                "covered": "yes",
+                "highway": "bus_stop",
+                "name": "Erlenweg",
+                "note": "Linien 2,",
+                "operator": "TüBus",
+                "ref": "21204",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 301960702,
+            "lat": 48.5461160,
+            "lon": 9.0611237,
+            "tags": {
+                "bench": "yes",
+                "covered": "yes",
+                "highway": "bus_stop",
+                "name": "Pappelweg",
+                "note": "Linien 2, 3, 4, 5, 6",
+                "operator": "TüBus",
+                "ref": "21101",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 301960704,
+            "lat": 48.5460123,
+            "lon": 9.0570734,
+            "tags": {
+                "bench": "yes",
+                "covered": "yes",
+                "highway": "bus_stop",
+                "name": "Ulmenweg",
+                "note": "Linien 2,",
+                "operator": "TüBus",
+                "ref": "26004",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 301960738,
+            "lat": 48.5459644,
+            "lon": 9.0611246,
+            "tags": {
+                "bench": "yes",
+                "covered": "yes",
+                "highway": "bus_stop",
+                "name": "Pappelweg",
+                "note": "Linien 2, 3, 4, 5, 6",
+                "operator": "TüBus",
+                "ref": "21104",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 301960739,
+            "lat": 48.5459262,
+            "lon": 9.0572962,
+            "tags": {
+                "bench": "yes",
+                "covered": "yes",
+                "highway": "bus_stop",
+                "name": "Ulmenweg",
+                "note": "Linien 2,",
+                "operator": "TüBus",
+                "ref": "26001",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 302074359,
+            "lat": 48.5015314,
+            "lon": 8.9940399,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Hirschau Kirchplatz",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "route_ref": "18",
+                "shelter": "yes",
+                "tactile_paving": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 302074360,
+            "lat": 48.5014257,
+            "lon": 8.9928771,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Hirschau Kirchplatz",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "route_ref": "18",
+                "shelter": "yes",
+                "tactile_paving": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 302074361,
+            "lat": 48.5014863,
+            "lon": 8.9986598,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Hirschau Volksbank",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "route_ref": "18",
+                "shelter": "yes",
+                "tactile_paving": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 302074362,
+            "lat": 48.5016147,
+            "lon": 8.9993389,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Hirschau Volksbank",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "route_ref": "18",
+                "shelter": "no",
+                "tactile_paving": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 302074363,
+            "lat": 48.5106289,
+            "lon": 9.0436122,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Freibad",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "90401",
+                "route_ref": "18",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 302074366,
+            "lat": 48.5101826,
+            "lon": 9.0426434,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Freibad",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "90401",
+                "route_ref": "18",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 302074368,
+            "lat": 48.5251954,
+            "lon": 9.0592333,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Gmelinstraße",
+                "note": "Linie 18",
+                "operator": "TüBus",
+                "ref": "50901",
+                "shelter": "yes",
+                "wheelchair": "yes",
+                "wheelchair:description": "Auffahrt auf Bürgersteig 50m weiter an Nauklerstr. oder 50m weiter an Ampel/Kreuzung Hölderlin-/Gmelinstr. möglich."
+            }
+        },
+        {
+            "type": "node",
+            "id": 302074370,
+            "lat": 48.5250116,
+            "lon": 9.0581389,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Hölderlinstraße",
+                "note": "Linie 18",
+                "operator": "TüBus",
+                "ref": "50708",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 302074372,
+            "lat": 48.5236445,
+            "lon": 9.0548033,
+            "tags": {
+                "highway": "bus_stop",
+                "lines": "18",
+                "name": "Rümelinstraße",
+                "operator": "TüBus",
+                "ref": "51001",
+                "shelter": "yes",
+                "tactile_paving": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 302074373,
+            "lat": 48.5252276,
+            "lon": 9.0498497,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Calwer Straße",
+                "note": "Linie 18",
+                "operator": "TüBus",
+                "ref": "19101",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 302074375,
+            "lat": 48.5251698,
+            "lon": 9.0496741,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Calwer Straße",
+                "note": "Linie 18",
+                "operator": "TüBus",
+                "ref": "19104",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 302074377,
+            "lat": 48.5285786,
+            "lon": 9.0467481,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Breiter Weg",
+                "operator": "TüBus",
+                "ref": "19001",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 302074380,
+            "lat": 48.5342340,
+            "lon": 9.0362902,
+            "tags": {
+                "bench": "yes",
+                "highway": "bus_stop",
+                "name": "BG Unfallklinik",
+                "network": "naldo",
+                "note": "Linien 13, 19, 18, 5",
+                "operator": "TüBus",
+                "passenger_information_display": "yes",
+                "ref": "20403",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 302074383,
+            "lat": 48.5344924,
+            "lon": 9.0356432,
+            "tags": {
+                "bench": "yes",
+                "highway": "bus_stop",
+                "name": "BG Unfallklinik",
+                "network": "naldo",
+                "note": "Linien 13, 19, 18, 5",
+                "operator": "TüBus",
+                "passenger_information_display": "yes",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 302074387,
+            "lat": 48.5365952,
+            "lon": 9.0333136,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Auf der Morgenstelle",
+                "note": "Linie 18",
+                "operator": "TüBus",
+                "shelter": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 302074389,
+            "lat": 48.5407375,
+            "lon": 9.0121900,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Hagelloch Rathaus",
+                "note": "Linie 18",
+                "operator": "TüBus",
+                "ref": "10704",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 302074391,
+            "lat": 48.5229904,
+            "lon": 9.0539632,
+            "tags": {
+                "bench": "yes",
+                "highway": "bus_stop",
+                "lines": "18",
+                "name": "Stadtgraben",
+                "operator": "TüBus",
+                "ref": "50804",
+                "shelter": "yes",
+                "shelter_type": "roof",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 302074393,
+            "lat": 48.5220461,
+            "lon": 9.0575051,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Nonnenhaus",
+                "note": "Linie 18",
+                "operator": "TüBus",
+                "ref": "50205",
+                "shelter": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 302432255,
+            "lat": 48.5439692,
+            "lon": 9.0576646,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Weißdornweg",
+                "operator": "TüBus",
+                "ref": "21401",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 302432337,
+            "lat": 48.5435838,
+            "lon": 9.0579252,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Weißdornweg",
+                "operator": "TüBus",
+                "ref": "21404",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 302432365,
+            "lat": 48.5427718,
+            "lon": 9.0584070,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Fichtenweg",
+                "operator": "TüBus",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 302432366,
+            "lat": 48.5422246,
+            "lon": 9.0599539,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Fichtenweg",
+                "operator": "TüBus",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 303183888,
+            "lat": 48.5519662,
+            "lon": 9.1080657,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Schönbuchhalle",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "32704",
+                "route_ref": "1, 7, 23, 826, E"
+            }
+        },
+        {
+            "type": "node",
+            "id": 303183889,
+            "lat": 48.5504436,
+            "lon": 9.1052396,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Lindenstraße",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "route_ref": "1, 7, 23, 826, E, N91"
+            }
+        },
+        {
+            "type": "node",
+            "id": 303183890,
+            "lat": 48.5460361,
+            "lon": 9.1026600,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Seestraße",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "30804",
+                "route_ref": "1, 7, 23, 826, 7601, E, N91"
+            }
+        },
+        {
+            "type": "node",
+            "id": 303183891,
+            "lat": 48.5459256,
+            "lon": 9.1030128,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Seestraße",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "30801",
+                "route_ref": "1, 7, 23, 826, 7601, E, N91"
+            }
+        },
+        {
+            "type": "node",
+            "id": 303183893,
+            "lat": 48.5476043,
+            "lon": 9.1099330,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Rathaus",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "route_ref": "1, 7, 23, 826, 7601, E, N91"
+            }
+        },
+        {
+            "type": "node",
+            "id": 303183894,
+            "lat": 48.5480436,
+            "lon": 9.1106231,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Rathaus",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "30901",
+                "route_ref": "1, 7, 23, 826, 7601, E, N91"
+            }
+        },
+        {
+            "type": "node",
+            "id": 303183895,
+            "lat": 48.5494667,
+            "lon": 9.1098800,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Volksbank",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "32604",
+                "route_ref": "1, 7, 23, E"
+            }
+        },
+        {
+            "type": "node",
+            "id": 303183896,
+            "lat": 48.5460316,
+            "lon": 9.1157944,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Lusstraße",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "31004",
+                "route_ref": "1, 7, 23, 7601, E"
+            }
+        },
+        {
+            "type": "node",
+            "id": 305162568,
+            "lat": 48.5165260,
+            "lon": 9.0569617,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "E",
+                "operator": "TüBus",
+                "public_transport": "stop_position",
+                "ref": "100005",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 310529631,
+            "lat": 48.5216421,
+            "lon": 9.0605204,
+            "tags": {
+                "bench": "no",
+                "covered": "no",
+                "highway": "bus_stop",
+                "lines": "10",
+                "name": "Doblerstraße",
+                "operator": "TüBus",
+                "ref": "60804",
+                "shelter": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 330716345,
+            "lat": 48.5014254,
+            "lon": 9.0503850,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Derendingen Marienstraße",
+                "operator": "TüBus",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 333639389,
+            "lat": 48.5297817,
+            "lon": 9.0571041,
+            "tags": {
+                "bench": "no",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Goethestraße",
+                "note": "Linie 3,4,17",
+                "operator": "TüBus",
+                "ref": "22001",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 333643810,
+            "lat": 48.5225137,
+            "lon": 9.0584443,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Willhelmstraße",
+                "note": "Linie 5,13,18 und viele mehr",
+                "operator": "TüBus",
+                "shelter": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 333644295,
+            "lat": 48.5227645,
+            "lon": 9.0586179,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Willhelmstraße",
+                "note": "Linie 1,7 und viele mehr",
+                "operator": "TüBus",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 336262180,
+            "lat": 48.5120339,
+            "lon": 9.0517272,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Albrechtstraße",
+                "operator": "TüBus",
+                "ref": "70701",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 336262184,
+            "lat": 48.5113552,
+            "lon": 9.0518715,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Albrechtstraße",
+                "operator": "TüBus",
+                "ref": "70704",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 338672602,
+            "lat": 48.5204522,
+            "lon": 9.0384807,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Westbahnhof",
+                "operator": "TüBus",
+                "ref": "204102",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 338673037,
+            "lat": 48.5203535,
+            "lon": 9.0400219,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Westbahnhof",
+                "operator": "TüBus",
+                "ref": "204106",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 347335673,
+            "lat": 48.4998843,
+            "lon": 9.0499370,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Danziger Straße",
+                "operator": "TüBus",
+                "ref": "71101",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 347335678,
+            "lat": 48.4998778,
+            "lon": 9.0510081,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Danziger Straße",
+                "operator": "TüBus",
+                "ref": "71104",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 359067278,
+            "lat": 48.5121126,
+            "lon": 9.0501379,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Regierungspräsidium",
+                "operator": "TüBus",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 359067281,
+            "lat": 48.5122292,
+            "lon": 9.0494684,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Regierungspräsidium",
+                "operator": "TüBus",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 401274484,
+            "lat": 48.5216116,
+            "lon": 9.0685734,
+            "tags": {
+                "bench": "no",
+                "covered": "no",
+                "highway": "bus_stop",
+                "lines": "10",
+                "name": "Kleiststraße",
+                "operator": "TüBus",
+                "ref": "60201",
+                "shelter": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 401276384,
+            "lat": 48.5215399,
+            "lon": 9.0634821,
+            "tags": {
+                "bench": "no",
+                "covered": "no",
+                "highway": "bus_stop",
+                "lines": "10",
+                "name": "Wielandshöhe",
+                "operator": "TüBus",
+                "ref": "60104",
+                "shelter": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 409983259,
+            "lat": 48.5131975,
+            "lon": 9.0704035,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Schweickhardtstraße",
+                "network": "naldo",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "81604",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 418061700,
+            "lat": 48.5299922,
+            "lon": 9.0545100,
+            "tags": {
+                "bench": "no",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Im Rotbad",
+                "operator": "TüBus",
+                "ref": "22101",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 418061702,
+            "lat": 48.5362793,
+            "lon": 9.0525100,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Auf dem Kreuz",
+                "network": "naldo",
+                "operator": "TüBus",
+                "ref": "23204",
+                "shelter": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 418061705,
+            "lat": 48.5388405,
+            "lon": 9.0546146,
+            "tags": {
+                "bench": "no",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Sternwarte",
+                "operator": "TüBus",
+                "ref": "23101",
+                "shelter": "no",
+                "wheelchair": "designated"
+            }
+        },
+        {
+            "type": "node",
+            "id": 418061706,
+            "lat": 48.5426918,
+            "lon": 9.0549785,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Waldhäuser Straße",
+                "operator": "TüBus",
+                "ref": "23401",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 418061868,
+            "lat": 48.5399088,
+            "lon": 9.0629717,
+            "tags": {
+                "bench": "yes",
+                "covered": "yes",
+                "highway": "bus_stop",
+                "name": "Falkenweg",
+                "note": "Linien 2",
+                "operator": "TüBus",
+                "ref": "25301",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 476785439,
+            "lat": 48.5172289,
+            "lon": 9.0690980,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Brückenstraße",
+                "network": "naldo",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "62104",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 476785442,
+            "lat": 48.5170909,
+            "lon": 9.0688967,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Brückenstraße",
+                "network": "naldo",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "62101",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 507190719,
+            "lat": 48.5337430,
+            "lon": 9.0587991,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Corrensstraße",
+                "operator": "TüBus",
+                "ref": "24004",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 632488493,
+            "lat": 48.5344254,
+            "lon": 9.0529547,
+            "tags": {
+                "bench": "yes",
+                "covered": "yes",
+                "highway": "bus_stop",
+                "name": "Ochsenweide",
+                "operator": "TüBus",
+                "ref": "23004",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 632490473,
+            "lat": 48.5348272,
+            "lon": 9.0529147,
+            "tags": {
+                "bench": "no",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Ochsenweide",
+                "operator": "TüBus",
+                "ref": "23001",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 632490476,
+            "lat": 48.5331363,
+            "lon": 9.0536711,
+            "tags": {
+                "bench": "no",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Schönblick",
+                "operator": "TüBus",
+                "ref": "24301",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 632714866,
+            "lat": 48.5317659,
+            "lon": 9.0531586,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Engelfriedshalde",
+                "operator": "TüBus",
+                "ref": "22204",
+                "tactile_paving": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 655340181,
+            "lat": 48.5295074,
+            "lon": 9.0870569,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Wolfsbaumweg",
+                "operator": "TüBus",
+                "ref": "32004",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 655340185,
+            "lat": 48.5295181,
+            "lon": 9.0874118,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Wolfsbaumweg",
+                "operator": "TüBus",
+                "ref": "32001",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 655340187,
+            "lat": 48.5300565,
+            "lon": 9.0894262,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Gottfried-Pressel-Weg",
+                "operator": "TüBus",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 655340189,
+            "lat": 48.5302285,
+            "lon": 9.0900882,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Gottfried-Pressel-Weg",
+                "operator": "TüBus",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 655340237,
+            "lat": 48.5339915,
+            "lon": 9.0926808,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Käthe-Kollwitz-Straße",
+                "operator": "TüBus",
+                "ref": "31704",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 655340239,
+            "lat": 48.5345755,
+            "lon": 9.0929736,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Käthe-Kollwitz-Straße",
+                "operator": "TüBus",
+                "ref": "31701",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 655350970,
+            "lat": 48.5292096,
+            "lon": 9.0850541,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Lustnau Steige",
+                "operator": "TüBus",
+                "ref": "31901",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 655350987,
+            "lat": 48.5326652,
+            "lon": 9.0811435,
+            "tags": {
+                "highway": "bus_stop",
+                "lines": "7;22",
+                "name": "Neuhaldenstraße",
+                "operator": "TüBus",
+                "ref": "30201",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 658310598,
+            "lat": 48.5305042,
+            "lon": 9.0665127,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Pauline-Krone-Heim",
+                "operator": "TüBus",
+                "ref": "50504",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 658310622,
+            "lat": 48.5309119,
+            "lon": 9.0764939,
+            "tags": {
+                "bench": "yes",
+                "highway": "bus_stop",
+                "name": "Stuttgarter Straße",
+                "operator": "TüBus",
+                "passenger_information_display": "no",
+                "public_transport": "platform",
+                "ref": "30501",
+                "shelter": "yes",
+                "shelter_type": "public_transport",
+                "timetable": "yes",
+                "waste_basket": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 658310627,
+            "lat": 48.5312574,
+            "lon": 9.0766221,
+            "tags": {
+                "bench": "yes",
+                "highway": "bus_stop",
+                "name": "Stuttgarter Straße",
+                "operator": "TüBus",
+                "passenger_information_display": "no",
+                "public_transport": "platform",
+                "ref": "30504",
+                "shelter": "yes",
+                "shelter_type": "public_transport",
+                "timetable": "yes",
+                "waste_basket": "yes",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 658406227,
+            "lat": 48.5310867,
+            "lon": 9.0465731,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Quenstedtstraße",
+                "operator": "TüBus",
+                "ref": "20104",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 658406235,
+            "lat": 48.5317342,
+            "lon": 9.0466565,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Quenstedtstraße",
+                "operator": "TüBus",
+                "ref": "20101",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 661708948,
+            "lat": 48.5032098,
+            "lon": 9.0523145,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Derendingen Mühlenviertel",
+                "operator": "TüBus",
+                "ref": "71704",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 676743243,
+            "lat": 48.5281396,
+            "lon": 9.0803138,
+            "tags": {
+                "highway": "bus_stop",
+                "lines": "1;22",
+                "name": "Lustnau Dorfstraße",
+                "note": "Linien 1,22",
+                "operator": "TüBus",
+                "source": "extrapolation",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 792998554,
+            "lat": 48.5183083,
+            "lon": 9.0746500,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Bismarckstraße",
+                "operator": "TüBus",
+                "ref": "61904",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 792998568,
+            "lat": 48.5182557,
+            "lon": 9.0748287,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Bismarckstraße",
+                "operator": "TüBus",
+                "ref": "61901",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 792998584,
+            "lat": 48.5197761,
+            "lon": 9.0783624,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Neckarsulmer Straße",
+                "network": "naldo",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "62201",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 792998603,
+            "lat": 48.5198072,
+            "lon": 9.0781455,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Neckarsulmer Straße",
+                "network": "naldo",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "62204",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 811941253,
+            "lat": 48.5383338,
+            "lon": 9.0617224,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Winkelwiese",
+                "operator": "TüBus",
+                "ref": "24201",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 811975378,
+            "lat": 48.5313522,
+            "lon": 9.0677573,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Linsenbergstraße",
+                "operator": "TüBus",
+                "ref": "25004",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 821926606,
+            "lat": 48.5166838,
+            "lon": 9.0615964,
+            "tags": {
+                "bench": "no",
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Blaue Brücke",
+                "network": "naldo",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "51701",
+                "route_ref": "10,7611,N81",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 826173767,
+            "lat": 48.5074904,
+            "lon": 9.0486055,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Mühlbachäcker",
+                "operator": "TüBus",
+                "ref": "91604",
+                "route_ref": "2",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 827197178,
+            "lat": 48.5075066,
+            "lon": 9.0482386,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Mühlbachäcker",
+                "operator": "TüBus",
+                "ref": "91601",
+                "route_ref": "2",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 827240264,
+            "lat": 48.5096548,
+            "lon": 9.0494437,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Landespolizeidirektion",
+                "operator": "TüBus",
+                "ref": "91404",
+                "route_ref": "2",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 880690984,
+            "lat": 48.5360591,
+            "lon": 9.0614015,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Niethammerstraße",
+                "operator": "TüBus",
+                "ref": "24101",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1005361382,
+            "lat": 48.5395419,
+            "lon": 9.0339774,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Botanischer Garten",
+                "note": "Linie 5",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "20501",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "yes",
+                "wheelchair:description": "Kein Kasseler Bord"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1087998474,
+            "lat": 48.5316065,
+            "lon": 9.0902850,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Bertha-von Suttner-Straße",
+                "operator": "TüBus",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1121349089,
+            "lat": 48.5158102,
+            "lon": 9.0637843,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Landestheater",
+                "network": "naldo",
+                "operator": "TüBus",
+                "passenger_information_display": "no",
+                "public_transport": "platform",
+                "ref": "80004",
+                "shelter": "yes",
+                "shelter_type": "public_transport",
+                "tactile_paving": "no",
+                "waste_basket": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1537889489,
+            "lat": 48.5262915,
+            "lon": 9.0589882,
+            "tags": {
+                "bench": "no",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Brunsstraße",
+                "operator": "TüBus",
+                "ref": "23504",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1537889490,
+            "lat": 48.5265861,
+            "lon": 9.0589931,
+            "tags": {
+                "bench": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Brunsstraße",
+                "operator": "TüBus",
+                "ref": "23501",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1569626748,
+            "lat": 48.5222646,
+            "lon": 9.0712056,
+            "tags": {
+                "bench": "no",
+                "covered": "no",
+                "highway": "bus_stop",
+                "lines": "10",
+                "name": "Stauffenbergstraße",
+                "operator": "TüBus",
+                "ref": "60301",
+                "shelter": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1569626766,
+            "lat": 48.5206832,
+            "lon": 9.0676153,
+            "tags": {
+                "bench": "no",
+                "covered": "no",
+                "highway": "bus_stop",
+                "lines": "10",
+                "name": "Schwabstraße",
+                "operator": "TüBus",
+                "ref": "60504",
+                "shelter": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1577918209,
+            "lat": 48.5293566,
+            "lon": 9.0620320,
+            "tags": {
+                "bench": "no",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Mohlstraße",
+                "operator": "TüBus",
+                "ref": "50601",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1577918215,
+            "lat": 48.5312091,
+            "lon": 9.0633197,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Untere Heulandsteige",
+                "operator": "TüBus",
+                "ref": "24401",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1577933423,
+            "lat": 48.5381845,
+            "lon": 9.0643435,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Wolfgang-Stock-Straße",
+                "operator": "TüBus",
+                "ref": "24801",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1583641467,
+            "lat": 48.5438498,
+            "lon": 9.0467356,
+            "tags": {
+                "bench": "yes",
+                "covered": "yes",
+                "highway": "bus_stop",
+                "name": "Haydnweg",
+                "operator": "TüBus",
+                "ref": "20804",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1583641480,
+            "lat": 48.5437220,
+            "lon": 9.0461239,
+            "tags": {
+                "bench": "yes",
+                "covered": "yes",
+                "highway": "bus_stop",
+                "name": "Haydnweg",
+                "operator": "TüBus",
+                "ref": "20801",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1584761858,
+            "lat": 48.5332538,
+            "lon": 9.0537637,
+            "tags": {
+                "bench": "no",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Schönblick",
+                "operator": "TüBus",
+                "ref": "24304",
+                "shelter": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1585648026,
+            "lat": 48.5323497,
+            "lon": 9.0534504,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Engelfriedshalde",
+                "operator": "TüBus",
+                "ref": "22201",
+                "tactile_paving": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1638473693,
+            "lat": 48.5402163,
+            "lon": 9.0400895,
+            "tags": {
+                "bench": "no",
+                "highway": "bus_stop",
+                "name": "Beethovenweg",
+                "operator": "TüBus",
+                "ref": "20601",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1652284118,
+            "lat": 48.5367865,
+            "lon": 9.0894328,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Stäudach",
+                "operator": "TüBus",
+                "ref": "33201",
+                "source": "survey",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1678957065,
+            "lat": 48.5347504,
+            "lon": 9.0816799,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Friedrich-Zundel Straße",
+                "operator": "TüBus",
+                "ref": "32904",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1698692292,
+            "lat": 48.5165773,
+            "lon": 9.0564848,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "lines": "3,4,7,8,13,31,34,N95",
+                "name": "H",
+                "operator": "TüBus",
+                "public_transport": "stop_position",
+                "ref": "100008",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1698692300,
+            "lat": 48.5165928,
+            "lon": 9.0566570,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "lines": "7601,7612,7613,7625,N81,N84,N82",
+                "name": "J",
+                "operator": "TüBus",
+                "public_transport": "stop_position",
+                "ref": "100010",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1698692306,
+            "lat": 48.5165916,
+            "lon": 9.0567506,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "lines": "777,791,7611,7612,7613,N87,N89",
+                "name": "K",
+                "operator": "TüBus",
+                "public_transport": "stop_position",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1698692308,
+            "lat": 48.5166011,
+            "lon": 9.0568342,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "lines": "754,826,828",
+                "name": "L",
+                "operator": "TüBus",
+                "public_transport": "stop_position",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1713234701,
+            "lat": 48.5218512,
+            "lon": 9.0604338,
+            "tags": {
+                "bench": "no",
+                "covered": "no",
+                "highway": "bus_stop",
+                "lines": "10",
+                "name": "Doblerstraße",
+                "operator": "TüBus",
+                "ref": "60801",
+                "shelter": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1713234720,
+            "lat": 48.5216468,
+            "lon": 9.0720767,
+            "tags": {
+                "covered": "no",
+                "highway": "bus_stop",
+                "lines": "10",
+                "name": "Rechter Österberg",
+                "operator": "TüBus",
+                "ref": "60604",
+                "shelter": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1713234725,
+            "lat": 48.5227948,
+            "lon": 9.0745665,
+            "tags": {
+                "bench": "no",
+                "covered": "no",
+                "highway": "bus_stop",
+                "lines": "10",
+                "name": "Fritz-Bauer-Straße",
+                "operator": "TüBus",
+                "shelter": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1713234734,
+            "lat": 48.5230653,
+            "lon": 9.0779744,
+            "tags": {
+                "bench": "no",
+                "covered": "no",
+                "highway": "bus_stop",
+                "lines": "10",
+                "name": "Österberg",
+                "operator": "TüBus",
+                "ref": "60704",
+                "shelter": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1713234756,
+            "lat": 48.5218140,
+            "lon": 9.0591149,
+            "tags": {
+                "bench": "yes",
+                "covered": "yes",
+                "highway": "bus_stop",
+                "lines": "10",
+                "name": "Österbergstraße",
+                "operator": "TüBus",
+                "ref": "60001",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1713234764,
+            "lat": 48.5216865,
+            "lon": 9.0582342,
+            "tags": {
+                "bench": "no",
+                "covered": "no",
+                "highway": "bus_stop",
+                "lines": "10",
+                "name": "Österbergstraße",
+                "operator": "TüBus",
+                "ref": "60004",
+                "shelter": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1713349580,
+            "lat": 48.5165825,
+            "lon": 9.0565743,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "lines": "9,10,11,12,20,30,35",
+                "name": "I",
+                "operator": "TüBus",
+                "public_transport": "stop_position",
+                "ref": "100009",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1716289980,
+            "lat": 48.5165652,
+            "lon": 9.0564080,
+            "tags": {
+                "alt_name": "Busbahnhof;ZOB",
+                "bus": "yes",
+                "highway": "bus_stop",
+                "lines": "1,21,22,7,23,N91",
+                "name": "G",
+                "operator": "TüBus",
+                "public_transport": "stop_position",
+                "ref": "100007",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1716342682,
+            "lat": 48.5304568,
+            "lon": 9.0832758,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Dorfackerschule",
+                "operator": "TüBus",
+                "ref": "32201",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1716342687,
+            "lat": 48.5311204,
+            "lon": 9.0793090,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Dorfackerstraße",
+                "operator": "TüBus",
+                "ref": "33001",
+                "source": "knowledge",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1716342694,
+            "lat": 48.5325613,
+            "lon": 9.0907257,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Herrlesberg",
+                "operator": "TüBus",
+                "ref": "31501",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1716342724,
+            "lat": 48.5358599,
+            "lon": 9.0927250,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Stauden",
+                "operator": "TüBus",
+                "ref": "31601",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1716372079,
+            "lat": 48.5315369,
+            "lon": 9.0902455,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Bertha-von Suttner-Straße",
+                "operator": "TüBus",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1716372101,
+            "lat": 48.5327583,
+            "lon": 9.0906513,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Herrlesberg",
+                "operator": "TüBus",
+                "ref": "31504",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1716372107,
+            "lat": 48.5317532,
+            "lon": 9.0787736,
+            "tags": {
+                "highway": "bus_stop",
+                "lines": "1;22",
+                "name": "Kreuzstraße",
+                "operator": "TüBus",
+                "source": "knowledge",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1716372110,
+            "lat": 48.5283928,
+            "lon": 9.0611362,
+            "tags": {
+                "bench": "yes",
+                "covered": "yes",
+                "highway": "bus_stop",
+                "name": "Mohlstraße",
+                "operator": "TüBus",
+                "ref": "50604",
+                "shelter": "yes",
+                "shelter_type": "public_transport",
+                "tactile_paving": "no",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1716372113,
+            "lat": 48.5359420,
+            "lon": 9.0925614,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Stauden",
+                "operator": "TüBus",
+                "ref": "31604",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1716372124,
+            "lat": 48.5291944,
+            "lon": 9.0834589,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Lustnau Steige",
+                "operator": "TüBus",
+                "ref": "31904",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1745971355,
+            "lat": 48.5039576,
+            "lon": 9.0554508,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Derendingen Feuerhägle",
+                "operator": "TüBus",
+                "ref": "70501",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1745971362,
+            "lat": 48.4996216,
+            "lon": 9.0617402,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Derendingen Fuchsstraße",
+                "operator": "TüBus",
+                "ref": "72201",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1745971369,
+            "lat": 48.4997471,
+            "lon": 9.0615318,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Derendingen Fuchsstraße",
+                "operator": "TüBus",
+                "ref": "72204",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1745971375,
+            "lat": 48.5088458,
+            "lon": 9.0594398,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Hechinger Eck",
+                "operator": "TüBus",
+                "ref": "92102",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1745971381,
+            "lat": 48.5095467,
+            "lon": 9.0597484,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Hechinger Eck",
+                "operator": "TüBus",
+                "ref": "92104",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1745971385,
+            "lat": 48.5066952,
+            "lon": 9.0548467,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Derendingen Heinlenstraße",
+                "operator": "TüBus",
+                "ref": "70401",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1745971391,
+            "lat": 48.5075092,
+            "lon": 9.0580783,
+            "tags": {
+                "bench": "yes",
+                "highway": "bus_stop",
+                "name": "Memmingerstraße",
+                "operator": "TüBus",
+                "ref": "72901",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1745971395,
+            "lat": 48.5075888,
+            "lon": 9.0574725,
+            "tags": {
+                "bench": "yes",
+                "highway": "bus_stop",
+                "name": "Memmingerstraße",
+                "operator": "TüBus",
+                "ref": "72904",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1747162911,
+            "lat": 48.5038539,
+            "lon": 9.0555501,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Derendingen Feuerhägle",
+                "operator": "TüBus",
+                "ref": "70504",
+                "shelter": "yes",
+                "tactile_paving": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1747162912,
+            "lat": 48.5067170,
+            "lon": 9.0549946,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Derendingen Heinlenstraße",
+                "operator": "TüBus",
+                "ref": "70404",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748067759,
+            "lat": 48.5108840,
+            "lon": 9.0759598,
+            "tags": {
+                "bench": "yes",
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Aixer Straße",
+                "network": "naldo",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "80801",
+                "route_ref": "4, 7, 13",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748067760,
+            "lat": 48.5109782,
+            "lon": 9.0759726,
+            "tags": {
+                "bench": "yes",
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Aixer Straße",
+                "network": "naldo",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "80804",
+                "route_ref": "4, 7, 13",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748067761,
+            "lat": 48.5336089,
+            "lon": 9.0586805,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Corrensstraße",
+                "operator": "TüBus",
+                "ref": "24001",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748067762,
+            "lat": 48.5095846,
+            "lon": 9.0749463,
+            "tags": {
+                "amenity": "bench",
+                "bench": "yes",
+                "highway": "bus_stop",
+                "name": "Görlitzer Weg",
+                "operator": "TüBus",
+                "ref": "81404",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748067763,
+            "lat": 48.5097744,
+            "lon": 9.0750023,
+            "tags": {
+                "amenity": "bench",
+                "bench": "yes",
+                "highway": "bus_stop",
+                "name": "Görlitzer Weg",
+                "operator": "TüBus",
+                "ref": "81401",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748067764,
+            "lat": 48.5118439,
+            "lon": 9.0666635,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Kiesäckerstraße",
+                "operator": "TüBus",
+                "ref": "81101",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748067765,
+            "lat": 48.5118860,
+            "lon": 9.0668117,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Kiesäckerstraße",
+                "operator": "TüBus",
+                "ref": "81104",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748067766,
+            "lat": 48.5104026,
+            "lon": 9.0683990,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Königsberger Straße",
+                "operator": "TüBus",
+                "ref": "81201",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748067767,
+            "lat": 48.5104867,
+            "lon": 9.0682974,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Königsberger Straße",
+                "operator": "TüBus",
+                "ref": "81204",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748067768,
+            "lat": 48.5362511,
+            "lon": 9.0612735,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Niethammerstraße",
+                "operator": "TüBus",
+                "ref": "24104",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748067775,
+            "lat": 48.5111294,
+            "lon": 9.0714554,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Stadtwerke",
+                "network": "naldo",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "81301",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748067776,
+            "lat": 48.5112491,
+            "lon": 9.0714043,
+            "tags": {
+                "bench": "yes",
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Stadtwerke",
+                "network": "naldo",
+                "operator": "TüBus",
+                "passenger_information_display": "yes",
+                "public_transport": "platform",
+                "ref": "81304",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "url": "http://www.swtue.de/abfahrt/?halt=81304",
+                "wheelchair": "designated"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748067777,
+            "lat": 48.5082849,
+            "lon": 9.0741609,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Tilsiter Weg",
+                "operator": "TüBus",
+                "ref": "81701",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748067778,
+            "lat": 48.5084734,
+            "lon": 9.0744378,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Tilsiter Weg",
+                "operator": "TüBus",
+                "ref": "81704",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748881956,
+            "lat": 48.5406196,
+            "lon": 9.0405942,
+            "tags": {
+                "bench": "no",
+                "highway": "bus_stop",
+                "name": "Beethovenweg",
+                "operator": "TüBus",
+                "ref": "20604",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748881958,
+            "lat": 48.5402648,
+            "lon": 9.0344248,
+            "tags": {
+                "bench": "yes",
+                "bin": "no",
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Botanischer Garten",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "20504",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes",
+                "wheelchair:description": "Kein Kasseler Bord"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748881959,
+            "lat": 48.5293145,
+            "lon": 9.0457259,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Frondsbergstraße",
+                "operator": "TüBus",
+                "ref": "20201",
+                "shelter": "no",
+                "tactile_paving": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748881960,
+            "lat": 48.5133587,
+            "lon": 9.0512455,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Hegelstraße",
+                "operator": "TüBus",
+                "ref": "70001",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748881961,
+            "lat": 48.5136737,
+            "lon": 9.0513483,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Hegelstraße",
+                "operator": "TüBus",
+                "ref": "70004",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748881964,
+            "lat": 48.5033944,
+            "lon": 9.0525226,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Derendingen Mühlenviertel",
+                "operator": "TüBus",
+                "ref": "71701",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748881969,
+            "lat": 48.5138731,
+            "lon": 9.0573306,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Hauptbahnhof Süd",
+                "operator": "TüBus",
+                "ref": "70104",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748881970,
+            "lat": 48.5138955,
+            "lon": 9.0569930,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Hauptbahnhof Süd",
+                "operator": "TüBus",
+                "ref": "70101",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748881972,
+            "lat": 48.5423697,
+            "lon": 9.0460546,
+            "tags": {
+                "bench": "yes",
+                "covered": "yes",
+                "highway": "bus_stop",
+                "name": "Wanne Kunsthalle",
+                "operator": "TüBus",
+                "ref": "20701",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748881973,
+            "lat": 48.5425534,
+            "lon": 9.0455487,
+            "tags": {
+                "bench": "yes",
+                "covered": "yes",
+                "highway": "bus_stop",
+                "name": "Wanne Kunsthalle",
+                "operator": "TüBus",
+                "ref": "20704",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748881974,
+            "lat": 48.5089909,
+            "lon": 9.0544121,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Derendingen Windfeldstraße",
+                "operator": "TüBus",
+                "ref": "60104",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748881975,
+            "lat": 48.5090528,
+            "lon": 9.0542547,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Derendingen Windfeldstraße",
+                "operator": "TüBus",
+                "ref": "70301",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748947296,
+            "lat": 48.5354883,
+            "lon": 9.0647025,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Haußerstraße",
+                "operator": "TüBus",
+                "ref": "24704",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748947297,
+            "lat": 48.5356338,
+            "lon": 9.0648793,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Haußerstraße",
+                "operator": "TüBus",
+                "ref": "24701",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748947298,
+            "lat": 48.5329670,
+            "lon": 9.0652281,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Im Winkelrain",
+                "operator": "TüBus",
+                "ref": "24501",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748947299,
+            "lat": 48.5330935,
+            "lon": 9.0649796,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Im Winkelrain",
+                "operator": "TüBus",
+                "ref": "24504",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748947301,
+            "lat": 48.5166706,
+            "lon": 9.0557737,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "B",
+                "operator": "TüBus",
+                "public_transport": "stop_position",
+                "ref": "100002",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748947303,
+            "lat": 48.5317008,
+            "lon": 9.0636789,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Untere Heulandsteige",
+                "operator": "TüBus",
+                "ref": "24404",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1748947304,
+            "lat": 48.5381384,
+            "lon": 9.0643039,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Wolfgang-Stock-Straße",
+                "operator": "TüBus",
+                "ref": "24804",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1749083963,
+            "lat": 48.5238870,
+            "lon": 9.0428462,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Aischbachstraße",
+                "operator": "TüBus",
+                "ref": "10104",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1749083964,
+            "lat": 48.5239726,
+            "lon": 9.0418698,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Aischbachstraße",
+                "operator": "TüBus",
+                "ref": "10101",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1749083965,
+            "lat": 48.5041023,
+            "lon": 9.0701586,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Bergfriedhof Süd",
+                "operator": "TüBus",
+                "ref": "82201",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1749083967,
+            "lat": 48.5034915,
+            "lon": 9.0664275,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Bergfriedhof West",
+                "operator": "TüBus",
+                "ref": "82101",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1749083968,
+            "lat": 48.5035780,
+            "lon": 9.0662796,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Bergfriedhof West",
+                "operator": "TüBus",
+                "ref": "82104",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1749083969,
+            "lat": 48.5250504,
+            "lon": 9.0384952,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Friedrich-Dannenmann-Straße",
+                "operator": "TüBus",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1749083970,
+            "lat": 48.5251267,
+            "lon": 9.0384886,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Friedrich-Dannenmann-Straße",
+                "operator": "TüBus",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1749083971,
+            "lat": 48.5250224,
+            "lon": 9.0416737,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Gösstraße",
+                "operator": "TüBus",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1749083972,
+            "lat": 48.5250380,
+            "lon": 9.0418615,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Gösstraße",
+                "operator": "TüBus",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1749083973,
+            "lat": 48.5405833,
+            "lon": 9.0122580,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Hagelloch Rathaus",
+                "note": "Linie 18",
+                "operator": "TüBus",
+                "ref": "10701",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1749083974,
+            "lat": 48.5243117,
+            "lon": 9.0307502,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Hagellocher Weg",
+                "network": "naldo",
+                "operator": "TüBus",
+                "passenger_information_display": "no",
+                "ref": "10304",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1749083975,
+            "lat": 48.5244627,
+            "lon": 9.0301897,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Hagellocher Weg",
+                "network": "naldo",
+                "operator": "TüBus",
+                "passenger_information_display": "no",
+                "ref": "10301",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1749083976,
+            "lat": 48.5293848,
+            "lon": 9.0229922,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Kreuzberg",
+                "operator": "TüBus",
+                "ref": "10501",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1749083977,
+            "lat": 48.5296989,
+            "lon": 9.0227058,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Kreuzberg",
+                "operator": "TüBus",
+                "ref": "10504",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1749083978,
+            "lat": 48.5337508,
+            "lon": 9.0213720,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Neuhalde",
+                "operator": "TüBus",
+                "ref": "10604",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1749083979,
+            "lat": 48.5337929,
+            "lon": 9.0215190,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Neuhalde",
+                "operator": "TüBus",
+                "ref": "10601",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1749083981,
+            "lat": 48.5238046,
+            "lon": 9.0473230,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Rappstraße",
+                "operator": "TüBus",
+                "ref": "10004",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1749083982,
+            "lat": 48.5238879,
+            "lon": 9.0473196,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Rappstraße",
+                "operator": "TüBus",
+                "ref": "10001",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1749083983,
+            "lat": 48.5247084,
+            "lon": 9.0348330,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Stephanuskirche",
+                "operator": "TüBus",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1749083984,
+            "lat": 48.5247737,
+            "lon": 9.0346171,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Stephanuskirche",
+                "operator": "TüBus",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1749083985,
+            "lat": 48.5092135,
+            "lon": 9.0694976,
+            "tags": {
+                "bench": "yes",
+                "bin": "yes",
+                "highway": "bus_stop",
+                "name": "Sudetenstraße",
+                "operator": "TüBus",
+                "ref": "82001",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1749083986,
+            "lat": 48.5094238,
+            "lon": 9.0698194,
+            "tags": {
+                "bench": "yes",
+                "bin": "yes",
+                "highway": "bus_stop",
+                "name": "Sudetenstraße",
+                "operator": "TüBus",
+                "ref": "82004",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1749083987,
+            "lat": 48.5262000,
+            "lon": 9.0249701,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Weilerhalde",
+                "operator": "TüBus",
+                "ref": "10404",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1749083988,
+            "lat": 48.5259105,
+            "lon": 9.0259491,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Weilerhalde",
+                "operator": "TüBus",
+                "ref": "10401",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1749634912,
+            "lat": 48.5153455,
+            "lon": 9.0327645,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Burgholzweg",
+                "network": "naldo",
+                "operator": "TüBus",
+                "ref": "5101",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1749634913,
+            "lat": 48.5154656,
+            "lon": 9.0330434,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Burgholzweg",
+                "network": "naldo",
+                "operator": "TüBus",
+                "ref": "5104",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1749634915,
+            "lat": 48.5168588,
+            "lon": 9.0371181,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Unteres Burgholz",
+                "network": "naldo",
+                "operator": "TüBus",
+                "ref": "5004",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1749634916,
+            "lat": 48.5169583,
+            "lon": 9.0368282,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Unteres Burgholz",
+                "network": "naldo",
+                "operator": "TüBus",
+                "ref": "5001",
+                "shelter": "no",
+                "tactile_paving": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1750361058,
+            "lat": 48.5385647,
+            "lon": 9.0313218,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Auf der Morgenstelle",
+                "note": "Linie 18",
+                "operator": "TüBus",
+                "ref": "12404",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1750361059,
+            "lat": 48.5181939,
+            "lon": 9.0803029,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "August-Bebel-Straße",
+                "network": "naldo",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "62401",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1750361060,
+            "lat": 48.5207317,
+            "lon": 9.0839576,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Betriebshof TüBus",
+                "network": "naldo",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "62301",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1750361061,
+            "lat": 48.5173204,
+            "lon": 9.0617672,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Biererstraße",
+                "network": "naldo",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "62001",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1750361062,
+            "lat": 48.5165061,
+            "lon": 9.0428752,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Biesingerstraße",
+                "network": "naldo",
+                "operator": "TüBus",
+                "ref": "4501",
+                "shelter": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1750361073,
+            "lat": 48.5167984,
+            "lon": 9.0434706,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Biesingerstraße",
+                "network": "naldo",
+                "operator": "TüBus",
+                "ref": "4504",
+                "shelter": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1750361077,
+            "lat": 48.5093624,
+            "lon": 9.0514506,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Brühlstraße",
+                "operator": "TüBus",
+                "ref": "91101",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1750361079,
+            "lat": 48.5096224,
+            "lon": 9.0516423,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Brühlstraße",
+                "operator": "TüBus",
+                "ref": "91104",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1750361080,
+            "lat": 48.5216459,
+            "lon": 9.0819810,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Düsseldorfer Straße",
+                "operator": "TüBus",
+                "ref": "62601",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1750361081,
+            "lat": 48.4954203,
+            "lon": 9.0579231,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Ernst-Simon-Straße",
+                "operator": "TüBus",
+                "ref": "72604",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1750361082,
+            "lat": 48.5206083,
+            "lon": 9.0470484,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Gerstenmühlstraße",
+                "operator": "TüBus",
+                "ref": "5605",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1750361083,
+            "lat": 48.5206861,
+            "lon": 9.0470579,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Gerstenmühlstraße",
+                "operator": "TüBus",
+                "ref": "5601",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1750361085,
+            "lat": 48.5234108,
+            "lon": 9.0379122,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Hasenbühl",
+                "network": "naldo",
+                "operator": "TüBus",
+                "ref": "10204",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1750361100,
+            "lat": 48.5235408,
+            "lon": 9.0365929,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Hasenbühl",
+                "network": "naldo",
+                "operator": "TüBus",
+                "ref": "10201",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1750361103,
+            "lat": 48.5136578,
+            "lon": 9.0391884,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Hennentalweg",
+                "network": "naldo",
+                "operator": "TüBus",
+                "ref": "4701",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1750361107,
+            "lat": 48.5131183,
+            "lon": 9.0399062,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Hirschauer Straße",
+                "network": "naldo",
+                "operator": "TüBus",
+                "ref": "4804",
+                "shelter": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1750361114,
+            "lat": 48.5183809,
+            "lon": 9.0835686,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Schaffhausenstraße",
+                "operator": "TüBus",
+                "ref": "62501",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1750361115,
+            "lat": 48.5205404,
+            "lon": 9.0447596,
+            "tags": {
+                "bin": "yes",
+                "highway": "bus_stop",
+                "name": "Schleifmühleweg",
+                "operator": "TüBus",
+                "ref": "4004",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1750361118,
+            "lat": 48.5206058,
+            "lon": 9.0447292,
+            "tags": {
+                "bin": "yes",
+                "highway": "bus_stop",
+                "name": "Schleifmühleweg",
+                "operator": "TüBus",
+                "ref": "4001",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1750361131,
+            "lat": 48.5188429,
+            "lon": 9.0354665,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Schwärzlocher Straße 111",
+                "network": "naldo",
+                "operator": "TüBus",
+                "ref": "5404",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1750361135,
+            "lat": 48.5193684,
+            "lon": 9.0437100,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Schwärzlocher Straße 45",
+                "operator": "TüBus",
+                "ref": "5204",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1750361139,
+            "lat": 48.5187978,
+            "lon": 9.0394085,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Schwärzlocher Straße 79",
+                "network": "naldo",
+                "operator": "TüBus",
+                "ref": "5304",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1750361140,
+            "lat": 48.5189251,
+            "lon": 9.0325534,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Schwärzlocher Täle",
+                "network": "naldo",
+                "operator": "TüBus",
+                "ref": "5701",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1750361141,
+            "lat": 48.5215617,
+            "lon": 9.0350585,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Sindelfinger Straße",
+                "network": "naldo",
+                "operator": "TüBus",
+                "ref": "4104",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1750361142,
+            "lat": 48.5216935,
+            "lon": 9.0352947,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Sindelfinger Straße",
+                "network": "naldo",
+                "operator": "TüBus",
+                "ref": "4101",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1750361143,
+            "lat": 48.5206383,
+            "lon": 9.0305783,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Städt. Fuhrpark",
+                "network": "naldo",
+                "operator": "TüBus",
+                "ref": "4201",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1750361144,
+            "lat": 48.5208635,
+            "lon": 9.0318092,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Städt. Fuhrpark",
+                "network": "naldo",
+                "operator": "TüBus",
+                "ref": "4204",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1750361157,
+            "lat": 48.4936759,
+            "lon": 9.0609935,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Derendingen Unter dem Holz",
+                "operator": "TüBus",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1750361161,
+            "lat": 48.4985042,
+            "lon": 9.0571482,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Waldhörnlestraße",
+                "operator": "TüBus",
+                "ref": "73001",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1750361165,
+            "lat": 48.5204332,
+            "lon": 9.0389874,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Westbahnhof",
+                "operator": "TüBus",
+                "ref": "204105",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1750361168,
+            "lat": 48.5207467,
+            "lon": 9.0386841,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Westbahnhof",
+                "operator": "TüBus",
+                "ref": "204103",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1750361169,
+            "lat": 48.5204855,
+            "lon": 9.0287186,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Weststadt",
+                "network": "naldo",
+                "operator": "TüBus",
+                "ref": "4304",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751054756,
+            "lat": 48.5237221,
+            "lon": 9.0823064,
+            "tags": {
+                "highway": "bus_stop",
+                "lines": "22",
+                "name": "Aeulestraße",
+                "operator": "TüBus",
+                "ref": "61201",
+                "source": "knowledge",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751054757,
+            "lat": 48.5238763,
+            "lon": 9.0822879,
+            "tags": {
+                "bench": "yes",
+                "highway": "bus_stop",
+                "lines": "22",
+                "name": "Aeulestraße",
+                "operator": "TüBus",
+                "ref": "61204",
+                "shelter": "yes",
+                "source": "knowledge",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751054758,
+            "lat": 48.5354269,
+            "lon": 9.0798564,
+            "tags": {
+                "highway": "bus_stop",
+                "line": "22",
+                "name": "Carlo-Steeb-Straße",
+                "operator": "TüBus",
+                "ref": "30404",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751054759,
+            "lat": 48.5268275,
+            "lon": 9.0820402,
+            "tags": {
+                "highway": "bus_stop",
+                "line": "22",
+                "name": "Deichelweg",
+                "operator": "TüBus",
+                "ref": "33104",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751054760,
+            "lat": 48.5269404,
+            "lon": 9.0815625,
+            "tags": {
+                "highway": "bus_stop",
+                "line": "22",
+                "name": "Deichelweg",
+                "operator": "TüBus",
+                "ref": "33101",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751054761,
+            "lat": 48.5295445,
+            "lon": 9.0789600,
+            "tags": {
+                "highway": "bus_stop",
+                "lines": "1;22",
+                "name": "Dieselstraße",
+                "operator": "TüBus",
+                "source": "http://www.svtue.de/liniennetz/linienverzeichnis-tag.html",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751054763,
+            "lat": 48.5339508,
+            "lon": 9.0856798,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Eichhaldenstraße",
+                "operator": "TüBus",
+                "ref": "30701",
+                "source": "knowledge",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751054764,
+            "lat": 48.5345639,
+            "lon": 9.0864915,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Eichhaldenstraße",
+                "operator": "TüBus",
+                "ref": "30704",
+                "source": "knowledge",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751054765,
+            "lat": 48.5202848,
+            "lon": 9.0765692,
+            "tags": {
+                "highway": "bus_stop",
+                "line": "22",
+                "name": "Gartenstraße",
+                "operator": "TüBus",
+                "ref": "33401",
+                "source": "http://www.svtue.de/liniennetz/linienverzeichnis-tag.html",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751054776,
+            "lat": 48.5204921,
+            "lon": 9.0763360,
+            "tags": {
+                "highway": "bus_stop",
+                "line": "22",
+                "name": "Gartenstraße",
+                "operator": "TüBus",
+                "ref": "33404",
+                "source": "http://www.svtue.de/liniennetz/linienverzeichnis-tag.html",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751054781,
+            "lat": 48.5192361,
+            "lon": 9.0723396,
+            "tags": {
+                "highway": "bus_stop",
+                "line": "22",
+                "name": "Hundskapfklinge",
+                "operator": "TüBus",
+                "ref": "61101",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751054786,
+            "lat": 48.5194254,
+            "lon": 9.0722538,
+            "tags": {
+                "highway": "bus_stop",
+                "line": "22",
+                "name": "Hundskapfklinge",
+                "operator": "TüBus",
+                "ref": "61104",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751054789,
+            "lat": 48.5142411,
+            "lon": 9.0694056,
+            "tags": {
+                "bench": "yes",
+                "bus": "yes",
+                "highway": "bus_stop",
+                "lines": "10;7611;N81",
+                "name": "Hügelschule",
+                "network": "naldo",
+                "operator": "TüBus",
+                "passenger_information_display": "no",
+                "public_transport": "platform",
+                "ref": "82604",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "timetable": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751054790,
+            "lat": 48.5188193,
+            "lon": 9.0629377,
+            "tags": {
+                "highway": "bus_stop",
+                "line": "22",
+                "name": "Jugendherberge",
+                "operator": "TüBus",
+                "ref": "61001",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751054791,
+            "lat": 48.5188896,
+            "lon": 9.0619460,
+            "tags": {
+                "highway": "bus_stop",
+                "line": "22",
+                "name": "Jugendherberge",
+                "operator": "TüBus",
+                "ref": "61004",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751054803,
+            "lat": 48.5319523,
+            "lon": 9.0788273,
+            "tags": {
+                "highway": "bus_stop",
+                "lines": "7;15",
+                "name": "Jürgensenstraße",
+                "operator": "TüBus",
+                "ref": "30601",
+                "source": "knowledge",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751054808,
+            "lat": 48.5320417,
+            "lon": 9.0786997,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Jürgensenstraße",
+                "operator": "TüBus",
+                "ref": "30604",
+                "source": "knowledge",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751054812,
+            "lat": 48.5188133,
+            "lon": 9.0679663,
+            "tags": {
+                "highway": "bus_stop",
+                "line": "22",
+                "name": "Kielmeyerstraße",
+                "operator": "TüBus",
+                "ref": "33601",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751054815,
+            "lat": 48.5188820,
+            "lon": 9.0677716,
+            "tags": {
+                "highway": "bus_stop",
+                "line": "22",
+                "name": "Kielmeyerstraße",
+                "operator": "TüBus",
+                "ref": "33604",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751054816,
+            "lat": 48.5313867,
+            "lon": 9.0787738,
+            "tags": {
+                "highway": "bus_stop",
+                "lines": "1;22",
+                "name": "Kreuzstraße",
+                "operator": "TüBus",
+                "source": "knowledge",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751054836,
+            "lat": 48.5328125,
+            "lon": 9.0813734,
+            "tags": {
+                "highway": "bus_stop",
+                "lines": "7;22",
+                "name": "Neuhaldenstraße",
+                "operator": "TüBus",
+                "ref": "30204",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751054840,
+            "lat": 48.5257037,
+            "lon": 9.0855192,
+            "tags": {
+                "highway": "bus_stop",
+                "line": "22",
+                "name": "Nürtinger Straße",
+                "operator": "TüBus",
+                "ref": "61304",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751054841,
+            "lat": 48.5258981,
+            "lon": 9.0861428,
+            "tags": {
+                "highway": "bus_stop",
+                "line": "22",
+                "name": "Nürtinger Straße",
+                "operator": "TüBus",
+                "ref": "61301",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751054843,
+            "lat": 48.5131910,
+            "lon": 9.0702582,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Schweickhardtstraße",
+                "network": "naldo",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "81601",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751054844,
+            "lat": 48.5366789,
+            "lon": 9.0802956,
+            "tags": {
+                "highway": "bus_stop",
+                "line": "22",
+                "name": "Viktor-Renner-Straße",
+                "operator": "TüBus",
+                "ref": "32804"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751398579,
+            "lat": 48.5100425,
+            "lon": 9.0663771,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Alexanderstraße",
+                "operator": "TüBus",
+                "ref": "92201",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751398605,
+            "lat": 48.5089508,
+            "lon": 9.0599715,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Hechinger Eck",
+                "operator": "TüBus",
+                "ref": "92103",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751398611,
+            "lat": 48.5104032,
+            "lon": 9.0783463,
+            "tags": {
+                "bench": "no",
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Wankheimer Täle",
+                "network": "naldo",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "81801",
+                "route_ref": "7, 13",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751398617,
+            "lat": 48.5105579,
+            "lon": 9.0786745,
+            "tags": {
+                "bench": "no",
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Wankheimer Täle",
+                "network": "naldo",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "81804",
+                "route_ref": "7, 13",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751811109,
+            "lat": 48.4890178,
+            "lon": 9.0073085,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Kilchberg Bahnhof",
+                "operator": "TüBus"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751811110,
+            "lat": 48.4833729,
+            "lon": 8.9970880,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Bühl Rathaus",
+                "operator": "TüBus",
+                "shelter": "yes",
+                "source": "survey",
+                "tactile_paving": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751811111,
+            "lat": 48.5393320,
+            "lon": 9.0486375,
+            "tags": {
+                "bench": "no",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Ferdinand-Christian-Baur-Straße",
+                "operator": "TüBus",
+                "ref": "23704",
+                "shelter": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751811112,
+            "lat": 48.5392530,
+            "lon": 9.0489556,
+            "tags": {
+                "bench": "no",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Ferdinand-Christian-Baur-Straße",
+                "operator": "TüBus",
+                "ref": "23701",
+                "shelter": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751811113,
+            "lat": 48.5375318,
+            "lon": 9.0501385,
+            "tags": {
+                "bench": "yes",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Hans-Geiger-Weg",
+                "operator": "TüBus",
+                "ref": "23604",
+                "shelter": "no",
+                "source": "survey",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751811114,
+            "lat": 48.5374686,
+            "lon": 9.0503479,
+            "tags": {
+                "bench": "no",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Hans-Geiger-Weg",
+                "operator": "TüBus",
+                "ref": "23601",
+                "shelter": "no",
+                "source": "survey",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751811117,
+            "lat": 48.4888855,
+            "lon": 9.0196143,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Kilchberg Keltengrab",
+                "operator": "TüBus",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751811118,
+            "lat": 48.4890596,
+            "lon": 9.0206873,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Kilchberg Keltengrab",
+                "operator": "TüBus",
+                "shelter": "yes",
+                "tactile_paving": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751811119,
+            "lat": 48.4886469,
+            "lon": 9.0170654,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Kilchberg Rathaus",
+                "operator": "TüBus",
+                "tactile_paving": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751811120,
+            "lat": 48.4904450,
+            "lon": 9.0134968,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Kilchberg Schloß",
+                "operator": "TüBus"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751811121,
+            "lat": 48.5416987,
+            "lon": 9.0470160,
+            "tags": {
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Kunsthalle",
+                "operator": "TüBus",
+                "ref": "23804",
+                "shelter": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751811122,
+            "lat": 48.5417948,
+            "lon": 9.0471582,
+            "tags": {
+                "bench": "no",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Kunsthalle",
+                "operator": "TüBus",
+                "ref": "23801",
+                "shelter": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751811127,
+            "lat": 48.5226651,
+            "lon": 9.0406108,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Rheinlandstraße",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "12204",
+                "route_ref": "14, N97, N98",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751811128,
+            "lat": 48.5227425,
+            "lon": 9.0409281,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Rheinlandstraße",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "12201",
+                "route_ref": "14, N97, N98",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751811131,
+            "lat": 48.4934189,
+            "lon": 9.0319145,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Weilheim Alte Landstraße",
+                "operator": "TüBus",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751811132,
+            "lat": 48.4941891,
+            "lon": 9.0318517,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Weilheim Alte Landstraße",
+                "operator": "TüBus",
+                "shelter": "no",
+                "tactile_paving": "yes",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751811133,
+            "lat": 48.4957660,
+            "lon": 9.0314419,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Weilheim Kneiple",
+                "operator": "TüBus",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751811134,
+            "lat": 48.4956821,
+            "lon": 9.0316171,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Weilheim Kneiple",
+                "operator": "TüBus",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751811135,
+            "lat": 48.4901240,
+            "lon": 9.0326874,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Weilheim Rathaus",
+                "operator": "TüBus"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1751839191,
+            "lat": 48.5566482,
+            "lon": 9.0975461,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Sophienpflege",
+                "operator": "TüBus",
+                "ref": "22904"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1753717817,
+            "lat": 48.5497149,
+            "lon": 9.1084014,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Hermann-Reuchlin-Straße",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "32404",
+                "route_ref": "N91"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1753717818,
+            "lat": 48.5501952,
+            "lon": 9.1054163,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Lindenstraße",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "route_ref": "1, 7, 23, 826, E, N91"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1754318608,
+            "lat": 48.5164821,
+            "lon": 9.0564725,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "lines": "5,8,16,18,19",
+                "name": "F",
+                "operator": "TüBus",
+                "public_transport": "stop_position",
+                "ref": "100006",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1755018538,
+            "lat": 48.5166327,
+            "lon": 9.0558214,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "C",
+                "operator": "TüBus",
+                "public_transport": "stop_position",
+                "ref": "100003",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1755018539,
+            "lat": 48.5165803,
+            "lon": 9.0558839,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "D",
+                "operator": "TüBus",
+                "public_transport": "stop_position",
+                "ref": "100004",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1755018540,
+            "lat": 48.5231894,
+            "lon": 9.0286408,
+            "tags": {
+                "bench": "yes",
+                "highway": "bus_stop",
+                "name": "Sindelfinger Straße (B28)",
+                "network": "naldo",
+                "operator": "TüBus",
+                "passenger_information_display": "no",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1755018541,
+            "lat": 48.5258203,
+            "lon": 8.9820854,
+            "tags": {
+                "bench": "yes",
+                "highway": "bus_stop",
+                "name": "Unterjesingen Kreissparkasse",
+                "network": "naldo",
+                "operator": "TüBus",
+                "passenger_information_display": "no",
+                "ref": "520201",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1755018542,
+            "lat": 48.5252069,
+            "lon": 8.9805250,
+            "tags": {
+                "bench": "no",
+                "highway": "bus_stop",
+                "name": "Unterjesingen Mitte Bahnhof",
+                "network": "naldo",
+                "operator": "TüBus",
+                "passenger_information_display": "no",
+                "public_transport": "stop_position",
+                "shelter": "no",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1755018543,
+            "lat": 48.5246122,
+            "lon": 8.9893660,
+            "tags": {
+                "bench": "yes",
+                "highway": "bus_stop",
+                "name": "Unterjesingen Süd",
+                "network": "naldo",
+                "operator": "TüBus",
+                "passenger_information_display": "no",
+                "public_transport": "platform",
+                "ref": "520104",
+                "route_ref": "791,N80,N98",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1757298355,
+            "lat": 48.4900805,
+            "lon": 9.0325218,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Weilheim Rathaus",
+                "operator": "TüBus"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1757309770,
+            "lat": 48.5150384,
+            "lon": 9.0421019,
+            "tags": {
+                "bench": "no",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Ernst-Bloch-Straße",
+                "network": "naldo",
+                "operator": "TüBus",
+                "ref": "4604",
+                "shelter": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1757309781,
+            "lat": 48.5120290,
+            "lon": 9.0375027,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Rappenberg",
+                "network": "naldo",
+                "operator": "TüBus",
+                "ref": "1604",
+                "shelter": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1759137445,
+            "lat": 48.4889488,
+            "lon": 9.0074565,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Kilchberg Bahnhof",
+                "operator": "TüBus"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1759137452,
+            "lat": 48.4885771,
+            "lon": 9.0169859,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Kilchberg Rathaus",
+                "operator": "TüBus",
+                "tactile_paving": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1759137455,
+            "lat": 48.4903535,
+            "lon": 9.0123589,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Kilchberg Schloß",
+                "operator": "TüBus",
+                "source": "survey"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1759401310,
+            "lat": 48.4832611,
+            "lon": 8.9969910,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Bühl Rathaus",
+                "operator": "TüBus",
+                "shelter": "no",
+                "source": "survey",
+                "tactile_paving": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1815404520,
+            "lat": 48.5248533,
+            "lon": 8.9883620,
+            "tags": {
+                "bench": "yes",
+                "highway": "bus_stop",
+                "name": "Unterjesingen Süd",
+                "network": "naldo",
+                "operator": "TüBus",
+                "passenger_information_display": "no",
+                "public_transport": "platform",
+                "ref": "520101",
+                "route_ref": "791,N80,N98",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1888798568,
+            "lat": 48.5609263,
+            "lon": 9.0627532,
+            "tags": {
+                "bench": "yes",
+                "highway": "bus_stop",
+                "name": "Bebenhausen Waldhorn",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "shelter_type": "public_transport"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1888799538,
+            "lat": 48.5599693,
+            "lon": 9.0630305,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "lines": "754;826;828",
+                "name": "Bebenhausen Waldhorn",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "shelter": "yes",
+                "shelter_type": "public_transport",
+                "waste_basket": "yes",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2080502286,
+            "lat": 48.4879239,
+            "lon": 9.0678403,
+            "tags": {
+                "highway": "bus_stop",
+                "operator": "TüBus"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2080502293,
+            "lat": 48.4879061,
+            "lon": 9.0674621,
+            "tags": {
+                "highway": "bus_stop",
+                "operator": "TüBus"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2469808803,
+            "lat": 48.4798841,
+            "lon": 9.0544181,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Albweg",
+                "operator": "TüBus",
+                "source": "survey",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2604508621,
+            "lat": 48.5388430,
+            "lon": 9.0327878,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Auf der Morgenstelle",
+                "note": "Linie 18",
+                "operator": "TüBus",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2730172475,
+            "lat": 48.5421958,
+            "lon": 9.0529504,
+            "tags": {
+                "bench": "yes",
+                "covered": "yes",
+                "highway": "bus_stop",
+                "name": "Horemer",
+                "operator": "TüBus",
+                "ref": "20901",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 2730172476,
+            "lat": 48.5423656,
+            "lon": 9.0526120,
+            "tags": {
+                "bench": "yes",
+                "covered": "yes",
+                "highway": "bus_stop",
+                "name": "Horemer",
+                "operator": "TüBus",
+                "ref": "20904",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3384194294,
+            "lat": 48.5249765,
+            "lon": 9.0606602,
+            "tags": {
+                "bench": "yes",
+                "covered": "yes",
+                "highway": "bus_stop",
+                "name": "Uni/Neue Aula",
+                "operator": "TüBus",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3507044455,
+            "lat": 48.5268838,
+            "lon": 9.0877733,
+            "tags": {
+                "highway": "bus_stop",
+                "line": "21",
+                "name": "Lustnau Egeriaplatz",
+                "operator": "TüBus",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3507044456,
+            "lat": 48.5269291,
+            "lon": 9.0877201,
+            "tags": {
+                "highway": "bus_stop",
+                "line": "21",
+                "name": "Lustnau Egeriaplatz",
+                "operator": "TüBus",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3593640236,
+            "lat": 48.5232899,
+            "lon": 9.0285878,
+            "tags": {
+                "bench": "yes",
+                "highway": "bus_stop",
+                "name": "Sindelfinger Straße (B28)",
+                "network": "naldo",
+                "operator": "TüBus",
+                "passenger_information_display": "no",
+                "ref": "90901",
+                "shelter": "yes",
+                "tactile_paving": "no",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3593640237,
+            "lat": 48.5260025,
+            "lon": 8.9819004,
+            "tags": {
+                "bench": "no",
+                "highway": "bus_stop",
+                "name": "Unterjesingen Kreissparkasse",
+                "network": "naldo",
+                "operator": "TüBus",
+                "passenger_information_display": "no",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3593640238,
+            "lat": 48.5248622,
+            "lon": 8.9823715,
+            "tags": {
+                "bench": "no",
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Unterjesingen Mitte Bahnhof",
+                "network": "naldo",
+                "operator": "TüBus",
+                "passenger_information_display": "no",
+                "public_transport": "platform",
+                "ref": "204304",
+                "route_ref": "24",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "limited"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3873112862,
+            "lat": 48.5365986,
+            "lon": 9.0540788,
+            "tags": {
+                "bench": "no",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Auf dem Kreuz",
+                "network": "naldo",
+                "operator": "TüBus",
+                "ref": "23201",
+                "wheelchair": "designated"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3873112863,
+            "lat": 48.5375411,
+            "lon": 9.0571435,
+            "tags": {
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Max-Planck-Institue",
+                "network": "naldo",
+                "operator": "TüBus",
+                "shelter": "no",
+                "wheelchair": "designated"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3873112864,
+            "lat": 48.5375469,
+            "lon": 9.0572498,
+            "tags": {
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Max-Planck-Institue",
+                "network": "naldo",
+                "operator": "TüBus",
+                "shelter": "no",
+                "wheelchair": "designated"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3873112865,
+            "lat": 48.5382369,
+            "lon": 9.0554853,
+            "tags": {
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Sternwarte",
+                "network": "naldo",
+                "operator": "TüBus",
+                "ref": "23104",
+                "shelter": "no",
+                "wheelchair": "designated"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3891854829,
+            "lat": 48.5278332,
+            "lon": 9.0792320,
+            "tags": {
+                "highway": "bus_stop",
+                "lines": "21;22",
+                "name": "Lustnau Dorfstraße",
+                "operator": "TüBus",
+                "shelter": "no",
+                "wheelchair": "designated"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3891854830,
+            "lat": 48.5278470,
+            "lon": 9.0793421,
+            "tags": {
+                "highway": "bus_stop",
+                "lines": "21;22",
+                "name": "Lustnau Dorfstraße",
+                "operator": "TüBus",
+                "shelter": "no",
+                "wheelchair": "designated"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4025931789,
+            "lat": 48.5290022,
+            "lon": 9.0759664,
+            "tags": {
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Benzstraße",
+                "operator": "TüBus",
+                "wheelchair": "designated"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4138731286,
+            "lat": 48.4823072,
+            "lon": 8.9940414,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Bühl Römerstraße",
+                "operator": "TüBus",
+                "wheelchair": "designated"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4213178068,
+            "lat": 48.5168219,
+            "lon": 9.0561281,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "A",
+                "operator": "TüBus",
+                "public_transport": "stop_position",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4319734296,
+            "lat": 48.5221987,
+            "lon": 9.0485036,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Weberstraße",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "shelter": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4319734299,
+            "lat": 48.5208450,
+            "lon": 9.0486818,
+            "tags": {
+                "highway": "bus_stop",
+                "note": "Ersatzhaltestelle, fest installiertes Schild",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "shelter": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4334215788,
+            "lat": 48.5239456,
+            "lon": 9.0285925,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Vor dem Kreuzberg",
+                "operator": "TüBus",
+                "ref": "11404",
+                "shelter": "yes",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4554959452,
+            "lat": 48.4961972,
+            "lon": 8.9936554,
+            "tags": {
+                "bench": "no",
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Hirschau Rittweg West",
+                "operator": "TüBus",
+                "passenger_information_display": "no",
+                "public_transport": "platform",
+                "route_ref": "18",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4554959453,
+            "lat": 48.4962994,
+            "lon": 8.9938056,
+            "tags": {
+                "bench": "no",
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Hirschau Rittweg West",
+                "operator": "TüBus",
+                "passenger_information_display": "no",
+                "public_transport": "platform",
+                "route_ref": "18",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4554959454,
+            "lat": 48.4973010,
+            "lon": 9.0031430,
+            "tags": {
+                "bench": "no",
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Hirschau Rittweg Ost",
+                "operator": "TüBus",
+                "passenger_information_display": "no",
+                "public_transport": "platform",
+                "route_ref": "18",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "designated"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4554959455,
+            "lat": 48.4973845,
+            "lon": 9.0030666,
+            "tags": {
+                "bench": "no",
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Hirschau Rittweg Ost",
+                "operator": "TüBus",
+                "passenger_information_display": "no",
+                "public_transport": "platform",
+                "route_ref": "18",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "designated"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4554959456,
+            "lat": 48.4998119,
+            "lon": 9.0058052,
+            "tags": {
+                "bench": "no",
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Hirschau Dischingerweg",
+                "operator": "TüBus",
+                "passenger_information_display": "no",
+                "public_transport": "platform",
+                "route_ref": "18",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4554959457,
+            "lat": 48.5008714,
+            "lon": 9.0052164,
+            "tags": {
+                "bench": "no",
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Hirschau Dischingerweg",
+                "operator": "TüBus",
+                "passenger_information_display": "no",
+                "public_transport": "platform",
+                "route_ref": "18",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4560172536,
+            "lat": 48.5154874,
+            "lon": 9.0688310,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Hügelstraße",
+                "network": "naldo",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "route_ref": "7",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4560215284,
+            "lat": 48.5108194,
+            "lon": 9.0801619,
+            "tags": {
+                "bench": "no",
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Franz. Viertel",
+                "network": "naldo",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "81904",
+                "route_ref": "7, 13",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4564287061,
+            "lat": 48.5239360,
+            "lon": 9.0394549,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Herrenberger Straße",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "11504",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4564472972,
+            "lat": 48.5174252,
+            "lon": 9.0617969,
+            "tags": {
+                "highway": "bus_stop",
+                "name": "Biererstraße",
+                "network": "naldo",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "ref": "62004",
+                "shelter": "no",
+                "tactile_paving": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4564472973,
+            "lat": 48.5153784,
+            "lon": 9.0420632,
+            "tags": {
+                "bench": "no",
+                "covered": "no",
+                "highway": "bus_stop",
+                "name": "Ernst-Bloch-Straße",
+                "network": "naldo",
+                "operator": "TüBus",
+                "ref": "4601",
+                "shelter": "no",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4571229811,
+            "lat": 48.5281082,
+            "lon": 9.0362174,
+            "tags": {
+                "bus": "yes",
+                "highway": "bus_stop",
+                "name": "Zwehrenbühl",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "route_ref": "30"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5382097864,
+            "lat": 48.5234389,
+            "lon": 9.0816808,
+            "tags": {
+                "bench": "no",
+                "bus": "yes",
+                "description": "Ersatzhaltestelle für H Aeulestraße aus Richtung Hauptbahnhof",
+                "highway": "bus_stop",
+                "lit": "no",
+                "name": "Aeulestraße-Ersatz",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "shelter": "no",
+                "surface": "asphalt"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5382097865,
+            "lat": 48.5239962,
+            "lon": 9.0819240,
+            "tags": {
+                "bench": "no",
+                "bus": "yes",
+                "description": "Ersatzhaltestelle für Bus in Richtung Hauptbahnhof",
+                "highway": "bus_stop",
+                "name": "Aeulestraße-Ersatz",
+                "operator": "TüBus",
+                "public_transport": "platform",
+                "shelter": "no"
+            }
+        }
+
+    ]
+}
